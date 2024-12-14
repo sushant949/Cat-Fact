@@ -1,0 +1,10 @@
+#bt{
+    background-color: green;
+    border-radius: 10px;
+}
+*{
+    background-color: lightblue;
+}
+#result{
+    color: darkblue;
+}
